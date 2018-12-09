@@ -1,3 +1,4 @@
+require 'pry'
 # Write your code here.
  def dictionary
    subs ={
